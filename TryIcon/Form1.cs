@@ -15,5 +15,10 @@ namespace TryIcon
         {
             InitializeComponent();
         }
+
+        private void NotifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
